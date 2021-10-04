@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Rojeru San
+ * @author Sebastian Veloza
  */
 public class Ahorcado extends javax.swing.JFrame {
 

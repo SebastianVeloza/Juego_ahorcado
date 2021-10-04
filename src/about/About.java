@@ -19,7 +19,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Rojeru San
+ * @author Sebastian Veloza
  */
 public class About extends javax.swing.JDialog {
 
